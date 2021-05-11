@@ -21,6 +21,6 @@
 
 ## Author
 
-- [Josiah Arkson](https://github.com/josiaharkson)
+- [Louis Lawrence](https://github.com/villetrex)
 
 ### Live Application deployed on Vercel. https://agriomartfarm-frontend.vercel.app/
