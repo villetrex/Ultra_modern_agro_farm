@@ -1,6 +1,5 @@
-# Agromart Frontend
+# Ultra modern Agromart Software for Investors and business communications
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/147b75a9f218469abf70c17768cc3ea3)](https://www.codacy.com/gh/josiaharkson/healthlance/dashboard?utm_source=github.com&utm_medium=referral&utm_content=josiaharkson/healthlance&utm_campaign=Badge_Grade)
 
 > An online marketplace connecting farm owners, retailers and consumers. Ease sales and purchase of farm products online.
 
